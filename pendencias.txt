@@ -1,0 +1,13 @@
+gerar o metodo list all
+verificar json na grava��o
+verificar json na leitura
+incluir o json lido em uma lista de objetos e manipula-los
+retirar println
+criar javadoc
+colocar a grava��o e leitura em uma classe FILE.
+criar diretorio
+incluir valor do pedido
+inclir opçao de gravação em arquivo ou memoria ja no começo da aplicação.
+caso nao haja pedidos no arquivo exibir mensagem.
+ls - no git mostra o conteudo do diretorio
+
